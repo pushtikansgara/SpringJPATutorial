@@ -7,6 +7,8 @@ public class Student {
 	String name;
 	
 	double testScore;
+
+	int age;
 	
 	
 	public Student(int id, String name, double testScore) {
